@@ -16,8 +16,6 @@
 #     try unzip -t "$i"
 # done
 
-`
-
 
 try() {
   "$@" > /dev/null 2>&1 
